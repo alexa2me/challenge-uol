@@ -1,26 +1,27 @@
 # <h1 align='center'>Challenge UOL</h1>
 
-<img src="https://img.shields.io/badge/React-20232A?style=&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=&logo=bootstrap&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=blue&style="/>
+<img src="http://img.shields.io/static/v1?label=Status&message=in progress&color=yellow&style="/>
 
-### Table of Contents
+## :page_with_curl: What is this project about?
 
-:small_blue_diamond: [What is this project about?](#page_with_curl-what-is-this-project-about)
+<p align="justify">
+This project is about creating a **responsive** react app with the github API integration in the following endpoints:
+    - [x] Endpoint user
+    - [x] Enpoint repos
+    - [x] Enpoint starred
+</p>
 
-:small_blue_diamond: [Requirements](#hammer_and_wrench-requirements)
+## :hammer_and_wrench: Technologies
 
-:small_blue_diamond: [How to run the application](#arrow_forward-how-to-run-the-application)
+<a href="https://reactjs.org/">:small_blue_diamond: React</a>
 
-:small_blue_diamond: [License](#license)
+<a href="https://www.npmjs.com/package/axios">:small_blue_diamond: Axios</a>
 
-### Enpoints
-
-- [x] Endpoint user
-- [x] Enpoint repos
-- [x] Enpoint starred
-- [x] Responsive
-
-## 🛠 Tecnologias
+<a href="https://getbootstrap.com/">:small_blue_diamond: Bootstrap</a>
 
 ## :rocket: Developers :octocat:
 
