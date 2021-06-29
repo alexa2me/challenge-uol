@@ -10,12 +10,9 @@
 
 <p align="justify">
 This project is about creating a **responsive** react app with the github API integration in the following endpoints:
-    
-   - [x] Endpoint user
-    
-   - [x] Enpoint repos
-    
-   - [x] Enpoint starred
+    - [x] Endpoint user
+    - [x] Enpoint repos
+    - [x] Enpoint starred
 </p>
 
 ## :hammer_and_wrench: Technologies
@@ -26,7 +23,7 @@ This project is about creating a **responsive** react app with the github API in
 
 <a href="https://getbootstrap.com/">:small_blue_diamond: Bootstrap</a>
 
-## :rocket: Developer :octocat:
+## :rocket: Developers :octocat:
 
 <table>
   <tr>

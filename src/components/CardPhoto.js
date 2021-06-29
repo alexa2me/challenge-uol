@@ -7,7 +7,7 @@ const CardPhoto = () => {
   const { states, requests } = useContext(GlobalStateContext);
 
   return (
-    <Card style={{ width: "100vw", textAlign: "center" }}>
+    <Card style={{ textAlign: "center" }}>
       <Card.Img variant="top" src={states.avatar} />
       <Card.Body>
         <Card.Title>{states.name}</Card.Title>
@@ -24,7 +24,7 @@ const CardPhoto = () => {
         ) : (
           <Figure>
             <Figure.Image
-              width={171}
+              width={200}
               height={180}
               alt="image of stitch"
               src={stitch}

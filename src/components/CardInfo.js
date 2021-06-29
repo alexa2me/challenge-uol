@@ -5,7 +5,6 @@ const CardInfo = ({ title, data, text }) => {
     <Card
       style={{
         width: "100vw",
-        textAlign: "center",
       }}
     >
       <Card.Body>
