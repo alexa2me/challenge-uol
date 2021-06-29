@@ -10,6 +10,7 @@
 
 <p align="justify">
 This project is about creating a **responsive** react app with the github API integration in the following endpoints:
+    
     - [x] Endpoint user
     - [x] Enpoint repos
     - [x] Enpoint starred
