@@ -24,7 +24,7 @@ This project is about creating a responsive react app with the github API integr
 
 <a href="https://getbootstrap.com/">:small_blue_diamond: Bootstrap</a>
 
-## :rocket: Developers :octocat:
+## :rocket: Developer :octocat:
 
 <table>
   <tr>
