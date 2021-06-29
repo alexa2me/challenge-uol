@@ -9,7 +9,7 @@ const MainContainer = () => {
   return (
     <div
       className="card-group"
-      style={{ width: "100vw", textAlign: "center", minHeight: "85vh" }}
+      style={{ textAlign: "center", minHeight: "85vh" }}
     >
       <CardPhoto />
 
